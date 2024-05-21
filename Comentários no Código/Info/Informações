@@ -1,0 +1,10 @@
+Adiciona função para calcular a média
+
+- Implementa a função calcularMedia no arquivo script.js
+- Adiciona testes unitários para a nova função
+- Atualiza documentação no cabeçalho do arquivo 
+
+
+Branches vscode o que é:  Elas servem para isolarmos nosso código criando
+ ramificações a partir de um ponto, permitindo criamos códigos e testar diferentes cenários,
+  sem afetar o código da ramificação principal (main/master).

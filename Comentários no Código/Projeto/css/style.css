@@ -1,0 +1,11 @@
+/* Estilo do cabeçalho */
+header {
+    background-color: #f8f8f8;
+    padding: 20px;
+}
+
+
+/* styles.css */
+@import 'reset.css';
+@import 'layout.css';
+@import 'components.css';
